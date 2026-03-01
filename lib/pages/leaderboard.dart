@@ -11,7 +11,7 @@ class LeaderboardPage extends StatelessWidget {
       backgroundColor: AppColors.white,
       body: const Center(
         child: Text(
-          'Leaderboard',
+          'LeaderboardScreen',
           style: TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.w600,
