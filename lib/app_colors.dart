@@ -13,4 +13,5 @@ class AppColors {
   static const Color grey = Color(0xFF535353);
   static const Color theGrey = Color(0xFFB2B2B2);
   static const Color accent = Color(0xFFFFB902);
+  static const Color bonus = Color(0xFF3FD81D);
 }
